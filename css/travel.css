@@ -1,0 +1,98 @@
+
+
+body {
+  font-family: 'Neutra Text', sans-serif;
+color:#303030;}
+
+
+header{ width: 100%;
+text-align: center;}
+
+ 
+
+
+nav.center {
+  background-color: aliceblue;
+  width: 65%;
+  height: 40px;
+  padding-top: 1px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+a:link    {color:green; background-color:transparent; text-decoration:none}
+a:visited {color:steelblue; background-color:transparent; text-decoration:none}
+a:hover   {color:forestgreen; background-color:transparent; text-decoration:none;}
+a:active  {color:yellow; background-color:transparent; text-decoration:underline}
+ 
+
+ul li {
+  display: inline-block;
+  list-style:  none;
+  font-size: 18px;
+  padding-left: 30px;
+  pading-right: 30px;
+ 
+ 
+}
+
+main {
+  width: 64%;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+main p {
+  margin-left: 25px;
+}
+
+
+h2 {font-family: 'Playfair Display', serif;
+    font-size: 36px;
+    color: darkgreen;
+text-align: center;}
+
+
+h3{
+  color:seagreen;
+  font-size: 24px;
+}
+
+h4{ color: navy;
+    font-family: 'Playfair Display SC';
+    letter-spacing: .05em}
+
+
+table.center {
+  border: 10px;
+  border-color: red;
+  width: 52%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center
+;
+font-weight: 200}
+
+#name {
+  font-family: 'Playfair Display SC';
+  color: white;
+  font-size: 25px;
+  background-color: forestgreen;
+  position:relative;
+  height: 50px;
+  
+}
+th{ height: 30px;}
+
+tr{background-color: #f3f3f3;
+color: navy;
+}
+td{height: 70px;
+vertical-align: middle}
+
+footer{
+  text-align:center;
+}
